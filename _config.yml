@@ -27,6 +27,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 theme: hanuman
+remote_theme: "hanuman"
 plugins:
   - jekyll-feed
 
